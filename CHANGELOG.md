@@ -1,6 +1,6 @@
 # Proceso
 ### Funcionalidades nuevas
-- 
+- Cambio release
 
 ### Solución a problemas
 - 
